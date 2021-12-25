@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/MCU_marvel_cinematic",
+  "success_url": "https://t.me/alars_chat",
   "website": "https://youtu.be/Q4uoNAFfvKg",
-  "repository": "https://github.com/alarskmoedig/FileRenameBot",
+  "repository": "https://t.me/alars_chat",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
